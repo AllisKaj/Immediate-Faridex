@@ -49,13 +49,13 @@ Immediate Faridex platform fees and commissions Immediate Faridex has no hidden 
 Success rate at Immediate Faridex The platform positions itself with a high success rate, but it is important to keep in mind that any trade involves risk. The final results depend on the market situation and the strategy you choose.
 
 ## How to get started with Immediate Faridex: step-by-step guide
-Step 1: 
+### Step 1: 
 Create an account Go to the official website and fill out the registration form. When entering your personal data, try to be as accurate as possible - this will help you avoid possible difficulties in the future.
-Step 2: 
+### Step 2: 
 Confirm your account After registration, you will receive an email with further instructions. Confirm your account to gain access to all platform features.
-Step 3: 
+### Step 3: 
 Fund your balance The minimum deposit amount is $250. Various secure payment methods listed on the website are available for depositing funds.
-Step 4: 
+### Step 4: 
 Start trading Customize your trading settings and enable the automated bot. If necessary, you can adjust the settings to achieve more suitable results for you.
 
 ## Is Immediate Faridex a fraudulent platform? 
