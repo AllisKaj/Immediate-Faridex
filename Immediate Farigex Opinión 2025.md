@@ -70,10 +70,17 @@ Immediate Faridex se presenta como un sistema legítimo, con una base de usuario
 Immediate Faridex brinda una vía cómoda para sumergirse en el trading de criptomonedas, independientemente del nivel de experiencia del usuario. Evidentemente, la plataforma tiene sus puntos débiles, pero para muchos operadores las ventajas superan las desventajas, en especial si lo que se busca es simplificar al máximo la experiencia de trading.
 
 ## Preguntas frecuentes
-¿Qué tan segura es la operación en **[Immediate Faridex](https://immediate-faridex.com)**? El sitio utiliza cifrado SSL para proteger los datos de los usuarios. Sin embargo, siempre se recomienda tomar medidas de seguridad adicionales.
-¿Qué activos digitales puedo operar? La plataforma admite Bitcoin, Ethereum, Litecoin y otras criptomonedas populares.
-¿Existen comisiones ocultas? Immediate Faridex garantiza transparencia total en cuanto a comisiones, por lo que no hay «letras pequeñas».
-¿Cómo retiro mis fondos? Puedes retirar tus ganancias en cualquier momento a través de tu cuenta personal en la plataforma.
-¿Cuenta con servicio de soporte? Sí, el servicio de atención al cliente está disponible las 24 horas del día, los 7 días de la semana.
-¿Es recomendable usar la cuenta demo? Definitivamente. Es una excelente forma de familiarizarte con las funciones sin arriesgar dinero real.
-¿Cuál es el porcentaje de éxito en las operaciones? Los resultados varían de un trader a otro, pero muchos usuarios reportan estadísticas favorables en sus operaciones.
+### ¿Qué tan segura es la operación en **[Immediate Faridex](https://immediate-faridex.com)**? 
+El sitio utiliza cifrado SSL para proteger los datos de los usuarios. Sin embargo, siempre se recomienda tomar medidas de seguridad adicionales.
+### ¿Qué activos digitales puedo operar? 
+La plataforma admite Bitcoin, Ethereum, Litecoin y otras criptomonedas populares.
+### ¿Existen comisiones ocultas? 
+Immediate Faridex garantiza transparencia total en cuanto a comisiones, por lo que no hay «letras pequeñas».
+### ¿Cómo retiro mis fondos? 
+Puedes retirar tus ganancias en cualquier momento a través de tu cuenta personal en la plataforma.
+### ¿Cuenta con servicio de soporte? 
+Sí, el servicio de atención al cliente está disponible las 24 horas del día, los 7 días de la semana.
+### ¿Es recomendable usar la cuenta demo? 
+Definitivamente. Es una excelente forma de familiarizarte con las funciones sin arriesgar dinero real.
+### ¿Cuál es el porcentaje de éxito en las operaciones? 
+Los resultados varían de un trader a otro, pero muchos usuarios reportan estadísticas favorables en sus operaciones.
