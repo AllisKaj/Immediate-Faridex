@@ -6,6 +6,8 @@ En esta reseña, veremos por qué se valora tanto a **[Immediate Faridex](https:
 
 ### [🔥 Crea tu cuenta instantánea con Immediate Faridex ahora](https://immediate-faridex.com)
 
+## Resumen
+
 | **Característica**            | **Descripción**                                          |
 |-------------------------------|----------------------------------------------------------|
 | **Tipo de plataforma**        | Sistema de trading automatizado                          |
