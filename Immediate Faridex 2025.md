@@ -30,10 +30,11 @@ Advantages:
 Disadvantages:
 * Technological vulnerability: like any bot, can encounter system failures or errors in algorithms.
 * Risk inherent in trading: there is no 100% guarantee of profit, and financial losses are possible.
-* 
 
-How does Immediate Faridex work? Immediate Faridex relies on advanced algorithms that analyze market dynamics, identify favorable moments for entry and automatically execute trades. Users specify their preferences and the system takes care of the rest of the work. Such automation makes it possible to participate in the cryptocurrency market without having to monitor it around the clock.
-Who developed Immediate Faridex? Detailed information about the creators of the platform is not advertised, but it is known that behind it is a team of experts in the field of fintech and digital assets. Their main goal is to make the platform accessible and efficient for both those who are just starting to trade and experienced investors.
+## How does Immediate Faridex work? 
+Immediate Faridex relies on advanced algorithms that analyze market dynamics, identify favorable moments for entry and automatically execute trades. Users specify their preferences and the system takes care of the rest of the work. Such automation makes it possible to participate in the cryptocurrency market without having to monitor it around the clock.
+## Who developed Immediate Faridex? 
+Detailed information about the creators of the platform is not advertised, but it is known that behind it is a team of experts in the field of fintech and digital assets. Their main goal is to make the platform accessible and efficient for both those who are just starting to trade and experienced investors.
 
  Key Features of Immediate Faridex
 1. Demo account The platform provides a demo mode where users can test the functionality and practice strategies without the risk of losing real funds. This is especially valuable for those who are just getting acquainted with the world of trading.
