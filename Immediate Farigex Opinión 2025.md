@@ -6,6 +6,15 @@ En esta reseña, veremos por qué se valora tanto a **[Immediate Faridex](https:
 
 ### [🔥 Crea tu cuenta instantánea con Immediate Faridex ahora](https://immediate-faridex.com)
 
+| **Característica**            | **Descripción**                                          |
+|-------------------------------|----------------------------------------------------------|
+| **Tipo de plataforma**        | Sistema de trading automatizado                          |
+| **Criptomonedas disponibles** | Bitcoin, Ethereum, Litecoin y otras                      |
+| **Depósito mínimo**           | 250 USD                                                  |
+| **Cuenta demo**               | Sí                                                       |
+| **Materiales de formación**   | Videos, guías y tutoriales                               |
+| **Comisiones**                | Sin comisiones ocultas, solo tarifas estándar            |
+
 Característica	Descripción
 Tipo de plataforma	Sistema de trading automatizado
 Criptomonedas disponibles	Bitcoin, Ethereum, Litecoin y otras
