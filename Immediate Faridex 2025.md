@@ -6,7 +6,7 @@ In this review, we will look at what exactly **[Immediate Faridex](https://immed
 
 🔥 Create your instant account with Immediate Faridex now 
 
-| **Characteristic**                   | **Description**                                   |
+| **Characteristic**            | **Description**                                          |
 |-------------------------------|----------------------------------------------------------|
 | **Platform Type**             | Automated trading system                                 |
 | **Available cryptocurrencies**| Bitcoin, Ethereum, Litecoin and others                   |
